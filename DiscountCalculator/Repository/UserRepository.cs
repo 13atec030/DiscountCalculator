@@ -12,7 +12,7 @@ namespace DiscountCalculator.Repository
     {
         #region Fields
 
-        public readonly string DbFilePath; 
+        private readonly string DbFilePath; 
 
         #endregion
 
